@@ -6,16 +6,8 @@
     background: #ffffff;
     font-family: Meiryo;
   }
+　div {
+  　background: #ffc0cb;
+　}
 　</style>
 </head>
-
-<body>
-  <div>
-    <h1>日本大学文理学部情報科学科 Webプログラミングの演習課題</h1>
-    <p>5418038 村上輝</p>
-  </div>
-</body>
-
-div {
-  background: #ffc0cb;
-}
