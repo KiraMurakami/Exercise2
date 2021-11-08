@@ -1,13 +1,9 @@
-<head>
-  <meta charset=“UFT-8”>
-  <title>CSS</title>
-  <style>
-  body {
-    background: #ffffff;
-    font-family: Meiryo;
-  }
-　div {
-  　background: #ffc0cb;
-　}
-　</style>
-</head>
+<style>
+body {
+  background: #ffffff;
+  font-family: Meiryo;
+}
+div {
+ background: #ffc0cb;
+}
+</style>
